@@ -1,0 +1,14 @@
+*.asv
+*.fig
+*.mat
+/emd (Earth Movers Distance)/build_emd.m
+/emd (Earth Movers Distance)/demo_emd.m
+/emd (Earth Movers Distance)/desktop.ini
+/emd (Earth Movers Distance)/emd.c
+/emd (Earth Movers Distance)/emd.h
+/emd (Earth Movers Distance)/emd_mex.c
+/emd (Earth Movers Distance)/emd_mex.dll
+/emd (Earth Movers Distance)/emd_mex.m
+/emd (Earth Movers Distance)/emd_mex.mexmaci64
+/desktop.ini
+/tmp/desktop.ini
